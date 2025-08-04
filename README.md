@@ -35,4 +35,9 @@ Install the required Python libraries:
 ```bash
 pip install geopandas rasterio numpy
 
-  🛠️ PDAL must be installed separately (not available via pip):
+🛠️ PDAL must be installed separately (not available via pip):
+	•	macOS:  brew install pdal
+	•	Windows/Linux (via Conda):  conda install -c conda-forge pdal
+
+
+
