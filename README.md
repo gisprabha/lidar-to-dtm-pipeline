@@ -111,7 +111,7 @@ Please open an issue for bugs, enhancements, or improvements.
 ## 🌍 Author
 
 **Prabhashini M.**  
-📫 [Add your GitHub profile or email here]
+📫 [[Add your GitHub profile or email here](https://github.com/gisprabha)]
 
 
 
