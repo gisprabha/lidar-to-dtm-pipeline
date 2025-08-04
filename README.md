@@ -32,12 +32,17 @@ Unlike traditional GUI-based workflows (e.g., ArcGIS, QGIS), this pipeline is:
 
 Install the required Python libraries:
 
-```bash
-pip install geopandas rasterio numpy
+- pip install geopandas
+- pip install rasterio
+- pip install numpy
 
-🛠️ PDAL must be installed separately (not available via pip):
-	•	macOS:  brew install pdal
-	•	Windows/Linux (via Conda):  conda install -c conda-forge pdal
+🛠️ **PDAL must be installed separately (not available via pip):**
+
+- **macOS**:  
+  brew install pdal
+
+- **Windows/Linux (via Conda)**:  
+  conda install -c conda-forge pdal
 
 
 
